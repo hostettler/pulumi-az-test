@@ -1,0 +1,8 @@
+config:
+  azure-typescript:db-admin-passwd:
+    secure: AAABAHPW4Jf8lHPJx+I6SDLVmPaJVR2p5zuN6K20isIeu6wJf+6jyK18
+  azure-typescript:repo-aws-passwd:
+    secure: AAABACBANcZF2BxeixyYxQ2H0CPCFO1XtnRtdmArPSArJ9LgrVTc3g==
+  azure-typescript:repo-aws-user: steve.hostettler
+  azure-typescript:sshPublicKey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDDfUPrr2hzNmlCzOs5EcLvSFvy9UBiMl5qKkyHGjCMikJ3HIrm9U5jbHHv+JEYNAs22OrwcAIyyJqzONM/kgCGdxy+uAIOTOrOk9cSDd6ATRKdXewsS3lGahyAeFpnQhup1vfRGdHUAGI1bwszBFt5r9cw/XNq/rwBpSlFPoCqYddqkJx1WtCvnkTPyqEn/80jAJ2+jLgBhRjdo71r2CCZHPAhanz5VBiO4+oI0NJ/uafgUpH3BvVJdGhk1jkCuyD/X1PD4SQy62QYVrXFuZnIrimhP3e2lxiopPnBWVCM7TtPv1TYicQwiZcqUAR1VlHJFIYPbDV2iVi09W2V+wiSfvDvGGoi6NfKPfet8ngzhHElLPldBShpb2us+DpTHko2jAbbDidtMRVCP1IVi6w5gaCsMw4f7I1JIkZsJxp7hfV1MiiyY3O3+wzNrc2EG9rmqLTlH+rQk5pMP0r1fL945VGCYTJaqU0PTwszvis91Bm/ec597x9Ohj3K3wpMGt0=
+    steve@CH54GFRRL5251N5
